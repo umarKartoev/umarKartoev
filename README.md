@@ -9,6 +9,9 @@
 <a href="https://www.kaggle.com/umarkartoev" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
+ <a href="https://stepik.org/users/473845753" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
 </div>  
 
 ## <div align="center">Hey 👋, There</div>  
