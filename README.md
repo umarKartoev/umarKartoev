@@ -10,7 +10,7 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
  <a href="https://stepik.org/users/473845753" target="_blank">
-<img src=https://img.shields.io/badge/stepik-%2344BAE8.svg?&style=for-the-badge&logo=stepik&logoColor=white alt=stepik style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/stepik-%2324292e.svg?&style=for-the-badge&logo=stepik&logoColor=white alt=stepik style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
