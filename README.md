@@ -14,7 +14,7 @@
 </a>  
 </div>  
 
-## <div align="center">Hey 👋, There</div>  
+## <div align="center">SIUUUUUUU!</div>  
   
 
 <br/>  
@@ -22,12 +22,12 @@
 
 ## About me: 
 <table><tr><td valign="top" width="50%">
-My name is Umar I'm a data scientist.
+My name is Umar, I'm 21 y.o.
   
-- 🌱 I’m currently learning ML. 
+- 🌱 I’m currently learning ML and DS. 
   
 
-- 🧑‍🎓 I study at the Faculty of Physics and Mathematics in INGGU.
+- 🧑‍🎓 I study at the Faculty of Physics and Mathematics at the Ingush State University.
   
 
 - ⚡ In free time, I do various projects and solve problems.
